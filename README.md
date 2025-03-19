@@ -1,4 +1,4 @@
 # Numerical Linear Algebra
-## Numerical Analysis Jupyter Notebooks Collaboration
+## Just to keep track of Jupyter Notebooks Collaboration
 ### Sven, Fran, Luis
 :shipit:
